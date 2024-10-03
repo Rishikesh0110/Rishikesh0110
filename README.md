@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishikesh0110
-- 👀 I’m interested in Data analytics and Model building
+- 👀 I’m interested in Data analytics and Model building , Machine Learning
 - 🌱 I’m currently learning Python,pandas,nummpy,Seaborn/Matplotlib,SQL,Tableau,Machine learning,Statistics...
 - 📫 Reach me by rs768082@gmail.com
 
